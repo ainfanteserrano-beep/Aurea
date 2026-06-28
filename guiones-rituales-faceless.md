@@ -66,3 +66,51 @@
 - **Texto en pantalla:** minúsculas, una idea por plano, mucho espacio negativo.
 - **Cierre estándar:** logo sobre Kraft + 1 línea de VO. Opcional: QR a la playlist *"Áurea: Tu momento de paz"* para extender el ritual.
 - **CTA sugerido en caption (no en video):** "Date tu momento de pausa → [link]. Stock limitado por kit."
+
+---
+
+## Captions con CTA (IG / TikTok)
+
+> Tono: cercano, en minúsculas, con un guiño divertido. CTA claro al final. Hashtags discretos.
+
+**Guion 1 · Coco — "Permiso para parar"**
+> hoy pudiste con todo. otra vez. 🤎
+> este es tu recordatorio (con permiso oficial) de parar 3 minutos y volver a ti.
+> el ritual de coco te espera. tibio, cremoso, tuyo.
+> 👉 date tu momento → link en bio. stock limitado por kit.
+> #áurea #ritualdevolverati #jabonartesanal #autocuidado #momentodepausa
+
+**Guion 2 · Mango — "Reinicio en 15 segundos"**
+> ¿lunes otra vez? lo sé. 🥭
+> pero hay días que se arreglan empezando bien temprano… por ti.
+> el ritual de mango es tu reinicio de cada mañana.
+> 👉 empieza por ti → link en bio.
+> #áurea #ritualdemango #buenosdías #autocuidado #jabonnatural
+
+**Guion 3 · Kit — "Un encuentro conmigo misma"**
+> no es un jabón. es una cita contigo. 🤍
+> coco para los días de pausa. mango para los de empezar de nuevo.
+> un kit en uno + playlist para tu momento de paz.
+> 👉 date permiso de volver a ti → link en bio.
+> #áurea #unkitenuno #autocuidado #ritualdiario #regálatealgo
+
+---
+
+## Variantes de Hook para A/B testing (primeros 0–4s)
+
+> Probar 1 hook por versión, mismo cuerpo de video. Medir retención a 3s y guardado/compartido.
+
+**Coco (pausa):**
+- A: *"Hoy pudiste con todo. Otra vez."* (empatía — base)
+- B: *"Esto es tu permiso oficial para no hacer nada por 3 minutos."* (divertido/permiso)
+- C: *"Lo último que necesitas hoy es una rutina más. Esto no lo es."* (anti-rutina)
+
+**Mango (despertar):**
+- A: *"¿Lunes otra vez? Lo sé."* (empatía — base)
+- B: *"Si tu mañana fuera un olor, sería este."* (sensorial)
+- C: *"Reiniciar tu día tarda 15 segundos. Te muestro."* (curiosidad/promesa)
+
+**Kit (encuentro):**
+- A: *"No es un jabón. Es una cita contigo."* (reframe — base)
+- B: *"Lo que de verdad va dentro de esta caja Kraft no es jabón."* (intriga unboxing)
+- C: *"Te lo regalas tú, porque sí te lo mereces."* (auto-regalo)
