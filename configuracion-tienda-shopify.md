@@ -34,7 +34,22 @@ Estética de marca: Kraft natural, papel seda, luz dorada/cálida, terracota com
 
 > Nota: la publicación de temas debe hacerse desde el admin (la API la bloquea por seguridad).
 
+## Productos creados (temática de jabones)
+
+Creados como **borrador (DRAFT)** con precios **provisionales** — ajústalos antes de publicar.
+
+| Producto | SKU | Precio provisional | Estado |
+|---|---|---|---|
+| Ritual de Coco — Jabón Artesanal | `AUREA-COCO-01` | $9.00 | DRAFT |
+| Ritual de Mango — Jabón Artesanal | `AUREA-MANGO-01` | $9.00 | DRAFT |
+| Kit Áurea — Coco + Mango | `AUREA-KIT-01` | $16.00 | DRAFT |
+
+- Todos con `vendor: Áurea`, inventario rastreado (cantidad 0) y descripciones de marca.
+- Agrupados en la colección **Rituales Áurea** (`handle: rituales-aurea`).
+
 ## Pendiente / siguientes pasos sugeridos
 
-- La tienda aún no tiene productos cargados. Siguiente paso natural: crear los productos de la temática de jabones — **Ritual de Coco**, **Ritual de Mango** y el **Kit Áurea** — y agruparlos en una colección.
+- **Ajustar precios reales** y pasar los productos de DRAFT a **ACTIVE** cuando estén listos.
+- **Cargar inventario** (cantidades) en cada variante.
 - Subir imágenes de producto (barras de jabón, espuma, coco/mango) coherentes con la estética kraft/dorada.
+- Publicar el tema **Atelier** desde el admin para activar el look terracota.
