@@ -47,9 +47,21 @@ Creados como **borrador (DRAFT)** con precios **provisionales** — ajústalos a
 - Todos con `vendor: Áurea`, inventario rastreado (cantidad 0) y descripciones de marca.
 - Agrupados en la colección **Rituales Áurea** (`handle: rituales-aurea`).
 
+## Imágenes de producto (generadas con Canva)
+
+Imágenes de marca generadas con IA (estética terracota/kraft), formato 1080×1350.
+
+| Producto | Imagen |
+|---|---|
+| Ritual de Coco | ✅ Subida (jabón de coco sobre fondo terracota, coco real + hoja natural) |
+| Ritual de Mango | ⏳ Pendiente — Canva agotó la cuota de generación |
+| Kit Áurea | ⏳ Pendiente — Canva agotó la cuota de generación |
+
+> Nota: las imágenes generadas incluyen un rótulo de marketing y la etiqueta del jabón puede salir con texto distorsionado (artefacto de IA). Para fotos de producto 100% limpias, lo ideal es subir fotografías reales.
+
 ## Pendiente / siguientes pasos sugeridos
 
+- **Generar imágenes de Mango y Kit** cuando se reinicie la cuota de Canva (mismo estilo que Coco).
 - **Ajustar precios reales** y pasar los productos de DRAFT a **ACTIVE** cuando estén listos.
 - **Cargar inventario** (cantidades) en cada variante.
-- Subir imágenes de producto (barras de jabón, espuma, coco/mango) coherentes con la estética kraft/dorada.
 - Publicar el tema **Atelier** desde el admin para activar el look terracota.
