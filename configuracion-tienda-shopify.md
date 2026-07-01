@@ -53,15 +53,15 @@ Imágenes de marca generadas con IA (estética terracota/kraft), formato 1080×1
 
 | Producto | Imagen |
 |---|---|
-| Ritual de Coco | ✅ Subida (jabón de coco sobre fondo terracota, coco real + hoja natural) |
-| Ritual de Mango | ⏳ Pendiente — Canva agotó la cuota de generación |
-| Kit Áurea | ⏳ Pendiente — Canva agotó la cuota de generación |
+| Ritual de Coco | ✅ Subida — coco sobre fondo terracota (incluye rótulo de marketing y etiqueta con texto distorsionado) |
+| Ritual de Mango | ✅ Subida — flat lay limpio en caja kraft, grabado "ÁUREA" correcto |
+| Kit Áurea | ✅ Subida — imagen "hero" con las dos cajas + rituales de Coco y Mango juntos |
 
-> Nota: las imágenes generadas incluyen un rótulo de marketing y la etiqueta del jabón puede salir con texto distorsionado (artefacto de IA). Para fotos de producto 100% limpias, lo ideal es subir fotografías reales.
+> Nota: algunas imágenes generadas por IA incluyen rótulo de marketing o texto distorsionado en la etiqueta del jabón. Para fotos de producto 100% limpias, lo ideal es subir fotografías reales.
 
 ## Pendiente / siguientes pasos sugeridos
 
-- **Generar imágenes de Mango y Kit** cuando se reinicie la cuota de Canva (mismo estilo que Coco).
-- **Ajustar precios reales** y pasar los productos de DRAFT a **ACTIVE** cuando estén listos.
-- **Cargar inventario** (cantidades) en cada variante.
+- (Opcional) **Regenerar la imagen de Coco** en el estilo limpio de Mango para dar consistencia al set.
+- **Ajustar precios reales** y pasar los productos de DRAFT a **ACTIVE** cuando haya stock.
+- **Cargar inventario** cuando llegue el stock (por ahora en 0, sin existencias).
 - Publicar el tema **Atelier** desde el admin para activar el look terracota.
