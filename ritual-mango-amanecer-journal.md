@@ -274,14 +274,34 @@ No es un diario más. Es el complemento en papel de tu Ritual de Mango Áurea: c
 ## 2. Ficha para Amazon KDP (a futuro)
 
 **Título:** Ritual de Mango Amanecer
-**Subtítulo:** Journal guiado de 21 días para reencontrarte cada mañana — afirmaciones, journaling y micro-retos de autocuidado
+**Subtítulo:** Journal Guiado de 21 Días para Reencontrarte Cada Mañana — Afirmaciones, Journaling y Micro-Retos de Autocuidado
+**Serie sugerida:** "Rituales Áurea — Libro 1" (deja espacio para un "Libro 2: Ritual de Coco Anochecer" más adelante, mismo formato para las noches).
+**Nombre de autor/marca (pen name):** Áurea
 
-**Descripción (book description):**
-Un journal guiado de 21 días pensado para mujeres que "pueden con todo" y necesitan un motivo para empezar el día por ellas mismas. Cada mañana incluye una afirmación, un paso de ritual sensorial, una pregunta de journaling, un espacio de gratitud y un micro-reto — organizados en 3 semanas: Despertar, Energía y Florecer.
+**Descripción de venta (book description, lista para copiar/pegar):**
 
-**Formato interior sugerido:** 6x9 in (15.24 x 22.86 cm), tapa blanda, ~60-70 páginas (portada + intro + 21 días con espacio de escritura + cierre).
+> ¿Tus mañanas empiezan antes de que tú lo decidas?
+>
+> **Ritual de Mango Amanecer** es un journal guiado de 21 días para mujeres que "pueden con todo" y necesitan un motivo real para empezar el día por ellas mismas — aunque sean solo 5 minutos.
+>
+> Cada mañana encontrarás:
+> ✓ Una afirmación para anclar tu intención del día
+> ✓ Un paso de ritual sensorial de 2-3 minutos
+> ✓ Una pregunta de journaling que no se repite (21 días, 21 reflexiones distintas)
+> ✓ Un espacio de gratitud
+> ✓ Un micro-reto pequeño y realista
+>
+> Organizado en 3 semanas — **Despertar, Energía y Florecer** — para que el hábito se sostenga solo, sin depender de la fuerza de voluntad del primer día.
+>
+> No es una rutina de productividad más. Es el permiso, en papel, de elegirte a ti antes de que el mundo empiece a pedirte algo.
+>
+> **Perfecto para:** empezar el año, un cumpleaños, un regalo de "autocuidado" para alguien que lo necesita, o para ti misma.
 
-**7 keywords sugeridas (Amazon KDP):**
+**Formato interior sugerido:** 6 x 9 in (15.24 x 22.86 cm), tapa blanda, interior en blanco y negro (para mantener el royalty de impresión bajo; color solo si se justifica el precio más alto), ~70-80 páginas (portada + bienvenida + instrucciones + página de intención + 21 días con espacio de escritura + carta al yo futuro + cierre).
+
+**Precio sugerido:** $9.99–$12.99 USD en tapa blanda (rango típico de low-content books de 70-80 páginas en 6x9; ajustar según el costo de impresión que calcule la KDP Print Cost Calculator antes de fijar precio final).
+
+**7 keywords sugeridas (Amazon KDP backend):**
 1. journal de gratitud para mujeres
 2. rutina matutina 21 días
 3. journal de autocuidado
@@ -290,9 +310,11 @@ Un journal guiado de 21 días pensado para mujeres que "pueden con todo" y neces
 6. journal de mindfulness
 7. regalo autocuidado para ella
 
-**Categorías sugeridas:** Self-Help > Journals; Health, Fitness & Dieting > Journals & Notebooks; Self-Improvement.
+**Categorías sugeridas (2-3, según disponibilidad en KDP):** Self-Help > Journals; Health, Fitness & Dieting > Journals & Notebooks; Self-Improvement > Journaling.
 
-**Nota:** Amazon KDP exige que el contenido esté libre de referencias a marcas/productos externos no vendidos en Amazon si se publica ahí como libro independiente — para esa versión, sustituir menciones directas a "jabón Áurea" por "tu producto de ritual matutino favorito" o vender el journal ya desvinculado del jabón físico.
+**Portada para KDP:** el diseño de portada ya generado (`assets/ritual-mango-amanecer/portada.png`) sirve como base del **frente**, pero KDP exige una portada "wrap" completa (frente + lomo + contraportada) en una sola plantilla, con el ancho de lomo calculado según el número final de páginas y el tipo de papel — usar la plantilla de portada de KDP antes de subir el archivo final.
+
+**Nota importante de política de marca:** Amazon KDP no permite mencionar ni promocionar productos/marcas externas no vendidos en Amazon dentro del contenido de un libro independiente. Antes de publicar esta versión en KDP, sustituir las menciones directas a "jabón Áurea" / "Ritual de Mango Áurea" en el manuscrito por frases genéricas como "tu producto de ritual matutino favorito" o "el aroma que elijas para tu ritual" — o vender el journal ya desvinculado del jabón físico como producto standalone.
 
 ---
 
