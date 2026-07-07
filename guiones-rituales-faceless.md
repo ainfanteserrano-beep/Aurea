@@ -96,6 +96,25 @@
 
 ---
 
+## Guion 0 — Pre-lanzamiento · "Muy pronto"
+
+**Ángulo:** teaser de expectativa. Sin mostrar el producto completo, solo insinuarlo (espuma, kraft, luz dorada) para generar curiosidad antes del lanzamiento.
+
+| Tiempo | Toma visual | Voz en off / Texto en pantalla |
+|---|---|---|
+| 0–4s | Caja kraft cerrada sobre lino, luz dorada lateral entra poco a poco. | *Texto:* "algo se está preparando." |
+| 4–9s | Manos abren un extremo de la caja; se asoma papel seda y un destello de espuma. | **VO:** *"un ritual que llevas esperando sin saberlo."* |
+| 9–13s | Gotas de agua caen sobre kraft; corte a viruta de coco y rodaja de mango entrando en cuadro. | **VO:** *"coco. mango. y tú, en el medio."* |
+| 13–15s | Logo Áurea sobre kraft, luz dorada plena. | *Texto:* **"Áurea — muy pronto."** · **VO:** *"el ritual de volver a ti."* |
+
+**Caption (pre-lanzamiento):**
+> algo dorado está por llegar. 🤍
+> Áurea: el ritual de volver a ti — coco, mango y un kit hecho para tu pausa.
+> 👉 síguenos para no perderte el lanzamiento.
+> #áurea #ritualdevolverati #autocuidado #muypronto #jabonartesanal
+
+---
+
 ## Variantes de Hook para A/B testing (primeros 0–4s)
 
 > Probar 1 hook por versión, mismo cuerpo de video. Medir retención a 3s y guardado/compartido.
